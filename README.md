@@ -1,6 +1,4 @@
-‎README.md‎
-Original file line number	Diff line number	Diff line change
-@@ -1,11 +1,12 @@
+‎@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arshaq Ahamed Ibrahim</h1>
 <h3 align="center">AI Tech Lead & Researcher architecting large-scale, production-grade AI/ML systems in fintech.</h3>
 <h3 align="center">AI/ML Engineering Lead | Architecting Enterprise-Scale, Production-Grade Intelligent Systems</h3>
