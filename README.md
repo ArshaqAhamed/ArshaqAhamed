@@ -11,39 +11,39 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="arshaq-ibrahim-160000256" height="30" width="40" /></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> </a>
-<a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/> </a>
-<a href="https://javascript.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/> </a>
-<a href="https://cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="c" width="40" height="40"/> </a>
-<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://wikimedia.org" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pydata.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pydata.org" target="_blank" rel="noreferrer"> <img src="https://pydata.org_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="opencv" width="40" height="40"/> </a>
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://amazon.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="aws" width="40" height="40"/> </a>
-<a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="docker" width="40" height="40"/> </a>
-<a href="https://postgresql.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://terraform.io" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="terraform" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="redis" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/> </a>
-<a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/> </a>
-<a href="https://mathworks.com" target="_blank" rel="noreferrer"> <img src="https://wikimedia.org" alt="matlab" width="40" height="40"/> </a>
-<a href="https://arduino.cc" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com" alt="arduino" width="40" height="40"/> </a>
-<a href="https://blender.org" target="_blank" rel="noreferrer"> <img src="https://blender.org" alt="blender" width="40" height="40"/> </a>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="PyTorch" />
+  <img src="https://shields.io" alt="TensorFlow" />
+  <img src="https://shields.io" alt="Scikit-Learn" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="AWS" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Kubernetes" />
+  <img src="https://shields.io" alt="Terraform" />
+  <img src="https://shields.io" alt="Redis" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="MATLAB" />
+  <img src="https://shields.io" alt="Arduino" />
 </p>
 
-<p align="center">
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
   <a href="https://github.com">
     <img src="https://vercel.app" alt="ArshaqAhamed Most Used Languages" />
   </a>
